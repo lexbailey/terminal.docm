@@ -10,13 +10,12 @@ Download terminal.docm
 
 ## Usage
 
-Open terminal.docm in Microsoft Word
+1. Open terminal.docm in Microsoft Word
+2. Enable macros
+3. Enable the quick access toolbar, if not already enabled.
+4. Click on either "bash" or "CMD" according to your needs.
 
-Enable the quick access toolbar, if not already enabled.
-
-Click on either "bash" or "CMD" according to your needs.
-
-Most normal terminal behaviours work here.
+You can now use the terminal by typing into the document.Most normal terminal behaviours work, but not all.
 
 ## Why?
 
