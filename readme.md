@@ -2,7 +2,7 @@
 
 This is a terminal emulator. It is also a Word document.
 
-`<todo: video here>`
+[![the Word document is a terminal emulator](https://github.com/lexbailey/terminal.docm/blob/main/yt_thumb.png)](https://youtu.be/GWlNTg-i3YA)
 
 ## Installation
 
