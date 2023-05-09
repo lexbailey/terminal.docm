@@ -6,6 +6,12 @@ This is a terminal emulator. It is also a Word document.
 
 Watch this ^ on YouTube: https://youtu.be/GWlNTg-i3YA
 
+## Platform support
+
+Specficially only Windows 11 with "Microsoft Word for Microsoft 365"
+
+Earlier windows versions will not work. (Okay windows 10 _might_ work, I haven't tried it, but vista and XP certainly won't, 8 is a very long shot)
+
 ## Installation
 
 Download terminal.docm
