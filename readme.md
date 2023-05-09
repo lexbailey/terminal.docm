@@ -25,7 +25,7 @@ Download terminal.docm
 3. Enable the quick access toolbar, if not already enabled.
 4. Click on either "bash" or "CMD" according to your needs.
 
-You can now use the terminal by typing into the document.Most normal terminal behaviours work, but not all.
+You can now use the terminal by typing into the document. Most normal terminal behaviours work, but not all.
 
 ## Why?
 
