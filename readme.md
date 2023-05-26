@@ -27,6 +27,15 @@ Download terminal.docm
 
 You can now use the terminal by typing into the document. Most normal terminal behaviours work, but not all.
 
+## Recommended options
+
+To get the best experience using `terminal.docm`, it is recommended to change some Microsoft Word settings.
+Specifically, you should disable most of the auto-formatter options.
+
+1. Open File > Settings
+2. In the proofing section, open AutoCorrect options
+3. Under the "AutoFormat as you type" section, disable all of the options
+
 ## Why?
 
 Entertainment.
